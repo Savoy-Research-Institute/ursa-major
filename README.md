@@ -21,3 +21,7 @@ graph LR
     OSCore --> CommModule
     OSCore --> DroneBridge
     DroneBridge --> FlightSystem
+```
+
+🤝 Contributing
+We welcome contributions from the community. See CONTRIBUTING.md for guidelines.
