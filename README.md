@@ -1,6 +1,6 @@
-# Ursa Majora
+# Ursa Minor
 
-🛰️ **Ursa Majora** is a next-generation handheld computer purpose-built for interfacing with autonomous drones in the field. Designed to be modular, durable, and deeply integrated with real-time aerial systems.
+🛰️ **Ursa Minor** is a next-generation handheld computer purpose-built for interfacing with autonomous drones in the field. Designed to be modular, durable, and deeply integrated with real-time aerial systems.
 
 ---
 
@@ -29,7 +29,7 @@ graph LR
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/savoy-research-institute/ursa-majora.git
+git clone https://github.com/savoy-research-institute/ursa-minor.git
 cd ursa-majora
 # Setup instructions go here
 ```
