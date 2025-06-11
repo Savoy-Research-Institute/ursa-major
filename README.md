@@ -30,7 +30,7 @@ graph LR
 
 ```bash
 git clone https://github.com/savoy-research-institute/ursa-minor.git
-cd ursa-majora
+cd ursa-minor
 # Setup instructions go here
 ```
 
